@@ -24,8 +24,7 @@ projects:
   limit: 9
   exclude:
     forks: true
-    projects:
-    # - repo-name
+    projects: Lab_Works
 
 # social_media:
   # behance: your_username
