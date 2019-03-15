@@ -5,6 +5,7 @@
     {% include masthead.html metadata=true %}
 
     <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
+      <!--Added title liquid tag-->
       <h1 class="f00-light lh-condensed mb-5">{{ page.title}}</h1>
       <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">{{ page.content }}</p>
     </div>
@@ -35,7 +36,9 @@
       <div class="mx-auto" style="max-width: 900px;">
         {% unless content == ""  %}
           <div class="f4 {% if site.style == 'dark' %}text-white{% endif %} mb-6">
-            {{ content }}
+	    <!--Added Title liquid tag-->
+            <h1 class="f00-light lh-condensed mb-5">{{ page.title}}</h1>
+	    <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">{{ page.content }}</p>
           </div>
         {% endunless %}
 
