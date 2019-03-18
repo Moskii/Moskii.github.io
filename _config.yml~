@@ -26,6 +26,16 @@ projects:
     forks: true
     projects: Lab_Works
 
+ projects:
+  sort_by: stars
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    forks: true
+    projects: 
+
 social_media:
   # behance: your_username
   # dribbble: your_username

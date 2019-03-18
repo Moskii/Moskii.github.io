@@ -24,17 +24,7 @@ projects:
   limit: 9
   exclude:
     forks: true
-    projects: Lab_Works
-
- projects:
-  sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    forks: true
-    projects: 
+    projects: Lab_Works 
 
 social_media:
   # behance: your_username
@@ -45,6 +35,7 @@ social_media:
   # stackoverflow: your_user_id
   # twitter: your_username
   # youtube: your_username
+
 #topics:
 #  - name: CSS
 #    web_url: https://github.com/topics/css
