@@ -8,7 +8,7 @@ I have a wide experience in programming (and plan to expland my knowledge on pro
 
 As a undergraduate, I feel I have strong transferrable skills from solving a problem independently to solving a problem in a team. I implement my existing skills into my part time job and any group projects (within / excluding University).
 
-My GCSE's (2011 - 2016) were earned at Ridgeway High school. I earned 10 GCSE's varied from A - C. My A-Levels were earned at Birkenhead Sixth Form College which as varied from A - C.
+My GCSE's (2011 - 2016) were earned at Ridgeway High school. I earned 10 GCSE's varied from A - C. My A-Levels were earned at Birkenhead Sixth Form College which also varied from A - C.
 
 My first semester of university, I achieved an overall mark of 75%.
 
