@@ -12,6 +12,6 @@ My GCSE's (2011 - 2016) were earned at Ridgeway High school. I earned 10 GCSE's 
 
 My first semester of university, I achieved an overall mark of 75%.
 
-Recently I took part in a Cybersecurity competition which was hosted by TryHackMe. In a team of 4, we were given tasks to complete which was set by the company and as a team we tackled these tasks. Our team placed top 15 out of 71 teams.
+I am a member of the Cybersecurity society (To Be committee?). Recently I took part in a hacking competition which was hosted by TryHackMe. In a team of 4, we were given tasks to complete which was set by the company and as a team we tackled these tasks. Our team placed top 15 out of 71 teams.
 
 More information of my past experiences / projects are found on my linkedIn page. The link is on the left hand side.    
